@@ -41,7 +41,11 @@
  * [Birth order and recalled childhood gender nonconformity in Samoan men and fa'afafine](https://onlinelibrary.wiley.com/doi/abs/10.1002/dev.21498)
  * [Archives of Sexual Behavior Volume 46, Issue 1, January 2017](https://link.springer.com/journal/10508/46/1/page/1)
 
-## Non-mammalian
+### Cultural Aspects
+
+* [Ancient Civilization in Iran Recognized Transgender People 3,000 Years Ago, Study Suggests](https://www.haaretz.com/archaeology/.premium.MAGAZINE-ancient-civilization-in-iran-recognized-transgender-people-study-suggests-1.6790205
+
+### Non-mammalian
 
  * [The evolution of sex chromosomes](http://science.sciencemag.org/content/251/4997/1030.long)
  * [Plant reproductive morphology](https://en.wikipedia.org/wiki/Plant_reproductive_morphology)
